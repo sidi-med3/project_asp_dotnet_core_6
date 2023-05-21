@@ -1,0 +1,54 @@
+﻿@model Projet_dot_net_annonce.ViewModels.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Registers";
+    Layout = null;
+}
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link  rel="stylesheet" href="~/css/navuser.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
+    </head>
+<body>
+
+<div class="wrapper">
+    <h1>Inscription</h1>
+        <form asp-action="Registers">
+            <label asp-for="Nom" class="control-label"></label>
+            <input asp-for="Nom" class="form-control" />
+            <span asp-validation-for="Nom" class="text-danger"></span>
+
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" type="password" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+         
+           
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control" type="password" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                
+            <button type="submit"  >Inscrire</button>
+          
+        </form>
+        <div class="member">
+            Vous avez Compte?
+            <a asp-controller="Accounts" asp-action="Login">Connectez</a>
+        </div>
+        
+    </div>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+</body>
+
+ </html>

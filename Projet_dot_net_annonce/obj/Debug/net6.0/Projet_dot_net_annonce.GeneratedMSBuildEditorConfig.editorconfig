@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Projet_dot_net_annonce
+build_property.RootNamespace = Projet_dot_net_annonce
+build_property.ProjectDir = C:\Users\Infotelec\source\repos\Projet_dot_net_annonce\Projet_dot_net_annonce\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Infotelec\source\repos\Projet_dot_net_annonce\Projet_dot_net_annonce
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Accounts/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Accounts/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Accounts/Registers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcUmVnaXN0ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Annonce/AffichageParCat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub25jZVxBZmZpY2hhZ2VQYXJDYXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Annonce/Annonces_non_publiées.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub25jZVxBbm5vbmNlc19ub25fcHVibGnDqWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Annonce/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub25jZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Annonce/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub25jZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Annonce/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub25jZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Annonce/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub25jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Categorie/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Categorie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Categorie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Shared/_navbardashborduser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZiYXJkYXNoYm9yZHVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Userannonce/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFubm9uY2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Userannonce/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFubm9uY2VcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Userannonce/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFubm9uY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Accounts/_Layout - Copier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcX0xheW91dCAtIENvcGllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-z7m2z75r0i
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Annonce/_Layout - Copier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub25jZVxfTGF5b3V0IC0gQ29waWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-yak9f5fl1b
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Categorie/_Layout - Copier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllXF9MYXlvdXQgLSBDb3BpZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7jfyf3bsrw
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Shared/_Layout - Copier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQgLSBDb3BpZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vovd634xby
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ibfvgmb8mb
+
+[C:/Users/Infotelec/source/repos/Projet_dot_net_annonce/Projet_dot_net_annonce/Views/Userannonce/_Layout - Copier.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcmFubm9uY2VcX0xheW91dCAtIENvcGllci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-vn8gkn4zfe

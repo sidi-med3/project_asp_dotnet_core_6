@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Projet_dot_net_annonce.props" />
+</Project>

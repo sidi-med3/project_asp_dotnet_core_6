@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projet_dot_net_annonce.props" />
+</Project>

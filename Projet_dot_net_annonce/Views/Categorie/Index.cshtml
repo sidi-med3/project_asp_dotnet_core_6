@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Categorie>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout - Copier.cshtml";
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            
+            <th scope="col">Id</th>
+            <th scope="col">Nom</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            
+        
+        <tr>
+            <th scope="row">@item.Id</th>
+            <td>@item.Name</td>
+                <td> <a asp-controller="Categorie"  asp-action="Edit" asp-route-id="@item.Id" type="button" class="btn btn-sm btn-outline-secondary">Edit</a>
+                 <a asp-controller="Categorie" asp-action="Delet" asp-route-id="@item.Id" type="button" class="btn btn-sm btn-outline-secondary">Supprimer</a></td>
+            
+        </tr>
+        }
+    </tbody>
+</table>

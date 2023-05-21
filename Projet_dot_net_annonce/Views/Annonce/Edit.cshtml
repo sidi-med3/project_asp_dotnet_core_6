@@ -1,0 +1,54 @@
+﻿@model Annonce
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_Layout - Copier.cshtml";
+}
+<form method="post" asp-action="Edit" >
+    <div class="form-group">
+        <label asp-for="Titre">Titre d'Annonce</label>
+        <input asp-for="Titre" class="form-control" placeholder="Entrez le Titre d'Annonce" >
+        <span asp-validation-for="Titre" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" placeholder="Entrez la Description d'Annonce">
+        <span asp-validation-for="Description" class=" text-danger"></span>
+    </div>
+      <div class="form-group">
+        <label asp-for="email">email</label>
+        <input asp-for="email" class="form-control" placeholder="Entrez Votre email">
+        <span asp-validation-for="email" class=" text-danger"></span>
+    </div>
+      <div class="form-group">
+        <label asp-for="Image">Image</label>
+        <input asp-for="Image" class=" form-control" placeholder="Entrez Le lien d'Image'">
+        <span asp-validation-for="Image" class=" text-danger"></span>
+     </div>
+    <div class="form-group">
+        <label asp-for="Prix">Prix</label>
+        <input asp-for="Prix" class=" form-control"  placeholder="Entrez Le Prix d'Annonce'">
+        <span asp-validation-for="Prix" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateAnnonce">Date:</label>
+        <input asp-for="DateAnnonce" type="date" class="form-control" id="dateInput"  data-date-format="dd/mm/yyyy" />
+      </div>
+    <div class="form-group">
+        <label asp-for="CategorieId">Catégorie</label>
+        <select asp-for="CategorieId" asp-items="@ViewBag.Categories" class="form-control">
+            <option value="">-- Sélectionnez une catégorie --</option>
+        </select>
+        <span asp-validation-for="CategorieId" class="text-danger"></span>
+    </div>
+    <div class="form-check">
+        <input asp-for="Etat" class="form-check-input" type="checkbox">
+        <label asp-for="Etat" class="form-check-label">
+            <span asp-validation-for="Etat" class=" text-danger"></span>
+            Publier
+        </label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
